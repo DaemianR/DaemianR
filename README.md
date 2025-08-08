@@ -1,16 +1,19 @@
-## Hi there 👋
+Hey there, I’m Dae 👋
 
-<!--
-**DaemianR/DaemianR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an 18-year-old college student exploring data entry, video editing, and building my online presence.
 
-Here are some ideas to get you started:
+### 💻 Interests:
+- 📊 Data Entry & Google Sheets
+- 🕹️ Gaming + Content Ideas
+- ✍️ Writing, Note-making
+- 🎬 Mobile Video Editing (CapCut)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Currently learning:
+- Git & GitHub basics
+- Building a digital portfolio
+- Online work skills (Internshala, freelancing, etc.)
+
+> “I might be starting small, but I’m showing up daily. That’s what matters.” 🚀
+
+Let's connect & grow!  
+🌐 LinkedIn (coming soon) | 🎯 Projects coming soon here too!
